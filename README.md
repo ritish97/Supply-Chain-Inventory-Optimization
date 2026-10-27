@@ -1,3 +1,4 @@
+Live demo : https://supply-chain-inventory-optimization-ehjdrvhf8es39hj6b3z4fm.streamlit.app/
 # Enterprise Supply Chain & Inventory Optimization Intelligence
 
 A full-stack analytics portfolio project demonstrating how **Excel, Python,
@@ -263,5 +264,5 @@ Features included in the web app:
 
 ## License
 
-This project is provided as a portfolio / educational reference
-implementation. Adapt freely for your own supply chain analytics work.
+This project is provided as a educational reference
+implementation.
