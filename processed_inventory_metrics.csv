@@ -1,0 +1,16 @@
+sku_id,product_name,category,current_stock_level,unit_cost,holding_cost_per_unit,avg_daily_demand,std_daily_demand,max_daily_demand,avg_lead_time_days,max_lead_time_days,safety_stock_units,safety_stock_units_maxavg_method,reorder_point_units,units_below_rop,stockout_flag,category_forecast_next_month_units,category_demand_volatility_3mo
+SKU-1001,Diamondback Bike,Fitness,183,185.0,27.54,23.71,15.8,96,6.89,16,68.0,1373.0,231.0,48.0,REORDER NOW,1508.0,105.9
+SKU-1002,Perfect Fitness Trainer,Fitness,226,58.0,7.7,21.92,14.09,89,6.76,16,60.0,1276.0,208.0,0.0,OK,1508.0,105.9
+SKU-1003,Nike Men's Shorts,Apparel,214,22.5,2.73,23.83,16.22,98,7.0,16,71.0,1401.0,238.0,24.0,REORDER NOW,1466.0,43.0
+SKU-1004,Field & Stream Tent,Outdoor,222,210.0,27.47,21.61,14.33,77,6.95,16,62.0,1082.0,212.0,0.0,OK,1426.0,127.6
+SKU-1005,Under Armour Hoodie,Apparel,203,34.0,4.66,22.96,14.59,81,6.91,16,63.0,1137.0,222.0,19.0,REORDER NOW,1466.0,43.0
+SKU-1006,Yoga Mat Premium,Fitness,358,18.0,2.15,22.69,15.45,100,7.12,16,68.0,1438.0,230.0,0.0,OK,1508.0,105.9
+SKU-1007,Coleman Cooler 50QT,Outdoor,242,120.0,15.15,22.59,14.58,94,7.01,16,64.0,1346.0,222.0,0.0,OK,1426.0,127.6
+SKU-1008,Wilson Golf Balls (Dz),Sports Equipment,212,15.0,2.07,22.65,15.63,83,7.17,16,69.0,1166.0,231.0,19.0,REORDER NOW,974.0,172.8
+SKU-1009,Nike Dri-FIT Polo,Apparel,273,28.0,3.87,22.29,15.35,107,6.92,16,67.0,1558.0,221.0,0.0,OK,1466.0,43.0
+SKU-1010,Garmin Running Watch,Electronics,166,249.0,27.72,23.69,15.66,78,6.87,16,68.0,1085.0,231.0,65.0,REORDER NOW,1077.0,52.3
+SKU-1011,Asics Running Shoes,Footwear,241,72.0,9.92,23.14,15.99,84,7.17,16,71.0,1178.0,237.0,0.0,OK,491.0,51.3
+SKU-1012,North Face Backpack,Outdoor,254,95.0,11.05,23.28,15.52,91,6.97,16,68.0,1294.0,230.0,0.0,OK,1426.0,127.6
+SKU-1013,Bluetooth Earbuds,Electronics,197,45.0,7.67,22.47,15.19,112,7.09,16,67.0,1633.0,226.0,29.0,REORDER NOW,1077.0,52.3
+SKU-1014,Wilson Tennis Racket,Sports Equipment,143,110.0,12.35,22.45,15.09,87,6.97,16,66.0,1236.0,222.0,79.0,REORDER NOW,974.0,172.8
+SKU-1015,Baseball Cap,Accessories,184,14.0,1.64,24.41,15.78,83,6.96,16,69.0,1158.0,239.0,55.0,REORDER NOW,619.0,108.8

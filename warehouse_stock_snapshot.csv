@@ -1,0 +1,61 @@
+sku_id,product_name,category,warehouse_code,current_stock_level,unit_cost,holding_cost_per_unit
+SKU-1001,Diamondback Bike,Fitness,WH-EAST,68,185.0,17.94
+SKU-1001,Diamondback Bike,Fitness,WH-CENTRAL,24,185.0,32.92
+SKU-1001,Diamondback Bike,Fitness,WH-WEST,13,185.0,28.88
+SKU-1001,Diamondback Bike,Fitness,WH-SOUTH,78,185.0,30.41
+SKU-1002,Perfect Fitness Trainer,Fitness,WH-EAST,44,58.0,9.33
+SKU-1002,Perfect Fitness Trainer,Fitness,WH-CENTRAL,25,58.0,9.37
+SKU-1002,Perfect Fitness Trainer,Fitness,WH-WEST,68,58.0,5.69
+SKU-1002,Perfect Fitness Trainer,Fitness,WH-SOUTH,89,58.0,6.43
+SKU-1003,Nike Men's Shorts,Apparel,WH-EAST,95,22.5,3.4
+SKU-1003,Nike Men's Shorts,Apparel,WH-CENTRAL,37,22.5,2.37
+SKU-1003,Nike Men's Shorts,Apparel,WH-WEST,70,22.5,2.12
+SKU-1003,Nike Men's Shorts,Apparel,WH-SOUTH,12,22.5,3.02
+SKU-1004,Field & Stream Tent,Outdoor,WH-EAST,94,210.0,26.17
+SKU-1004,Field & Stream Tent,Outdoor,WH-CENTRAL,58,210.0,31.44
+SKU-1004,Field & Stream Tent,Outdoor,WH-WEST,44,210.0,28.69
+SKU-1004,Field & Stream Tent,Outdoor,WH-SOUTH,26,210.0,23.57
+SKU-1005,Under Armour Hoodie,Apparel,WH-EAST,35,34.0,5.93
+SKU-1005,Under Armour Hoodie,Apparel,WH-CENTRAL,43,34.0,4.26
+SKU-1005,Under Armour Hoodie,Apparel,WH-WEST,97,34.0,3.15
+SKU-1005,Under Armour Hoodie,Apparel,WH-SOUTH,28,34.0,5.29
+SKU-1006,Yoga Mat Premium,Fitness,WH-EAST,91,18.0,2.23
+SKU-1006,Yoga Mat Premium,Fitness,WH-CENTRAL,90,18.0,2.57
+SKU-1006,Yoga Mat Premium,Fitness,WH-WEST,86,18.0,1.86
+SKU-1006,Yoga Mat Premium,Fitness,WH-SOUTH,91,18.0,1.93
+SKU-1007,Coleman Cooler 50QT,Outdoor,WH-EAST,86,120.0,20.7
+SKU-1007,Coleman Cooler 50QT,Outdoor,WH-CENTRAL,25,120.0,12.37
+SKU-1007,Coleman Cooler 50QT,Outdoor,WH-WEST,49,120.0,17.21
+SKU-1007,Coleman Cooler 50QT,Outdoor,WH-SOUTH,82,120.0,10.31
+SKU-1008,Wilson Golf Balls (Dz),Sports Equipment,WH-EAST,19,15.0,1.77
+SKU-1008,Wilson Golf Balls (Dz),Sports Equipment,WH-CENTRAL,90,15.0,1.87
+SKU-1008,Wilson Golf Balls (Dz),Sports Equipment,WH-WEST,44,15.0,2.09
+SKU-1008,Wilson Golf Balls (Dz),Sports Equipment,WH-SOUTH,59,15.0,2.54
+SKU-1009,Nike Dri-FIT Polo,Apparel,WH-EAST,31,28.0,4.52
+SKU-1009,Nike Dri-FIT Polo,Apparel,WH-CENTRAL,62,28.0,3.27
+SKU-1009,Nike Dri-FIT Polo,Apparel,WH-WEST,85,28.0,4.78
+SKU-1009,Nike Dri-FIT Polo,Apparel,WH-SOUTH,95,28.0,2.91
+SKU-1010,Garmin Running Watch,Electronics,WH-EAST,26,249.0,21.81
+SKU-1010,Garmin Running Watch,Electronics,WH-CENTRAL,68,249.0,30.04
+SKU-1010,Garmin Running Watch,Electronics,WH-WEST,13,249.0,33.09
+SKU-1010,Garmin Running Watch,Electronics,WH-SOUTH,59,249.0,25.96
+SKU-1011,Asics Running Shoes,Footwear,WH-EAST,62,72.0,6.99
+SKU-1011,Asics Running Shoes,Footwear,WH-CENTRAL,35,72.0,12.6
+SKU-1011,Asics Running Shoes,Footwear,WH-WEST,54,72.0,12.01
+SKU-1011,Asics Running Shoes,Footwear,WH-SOUTH,90,72.0,8.08
+SKU-1012,North Face Backpack,Outdoor,WH-EAST,95,95.0,15.48
+SKU-1012,North Face Backpack,Outdoor,WH-CENTRAL,75,95.0,7.87
+SKU-1012,North Face Backpack,Outdoor,WH-WEST,25,95.0,13.03
+SKU-1012,North Face Backpack,Outdoor,WH-SOUTH,59,95.0,7.81
+SKU-1013,Bluetooth Earbuds,Electronics,WH-EAST,39,45.0,7.34
+SKU-1013,Bluetooth Earbuds,Electronics,WH-CENTRAL,33,45.0,7.83
+SKU-1013,Bluetooth Earbuds,Electronics,WH-WEST,98,45.0,7.71
+SKU-1013,Bluetooth Earbuds,Electronics,WH-SOUTH,27,45.0,7.79
+SKU-1014,Wilson Tennis Racket,Sports Equipment,WH-EAST,41,110.0,9.48
+SKU-1014,Wilson Tennis Racket,Sports Equipment,WH-CENTRAL,46,110.0,14.48
+SKU-1014,Wilson Tennis Racket,Sports Equipment,WH-WEST,13,110.0,15.9
+SKU-1014,Wilson Tennis Racket,Sports Equipment,WH-SOUTH,43,110.0,9.53
+SKU-1015,Baseball Cap,Accessories,WH-EAST,78,14.0,1.22
+SKU-1015,Baseball Cap,Accessories,WH-CENTRAL,36,14.0,1.15
+SKU-1015,Baseball Cap,Accessories,WH-WEST,33,14.0,1.84
+SKU-1015,Baseball Cap,Accessories,WH-SOUTH,37,14.0,2.37
